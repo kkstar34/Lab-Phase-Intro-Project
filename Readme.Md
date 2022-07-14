@@ -7,4 +7,4 @@ Vous y trouverez les images, les icones et les couleurs....
 
 ### Lien du site Temoin
 
-[https://lmc-shop.netlify.app](lmc-shop)
+[https://lmc-shop.netlify.app](https://lmc-shop.netlify.app)
